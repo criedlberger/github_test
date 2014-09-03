@@ -3,6 +3,14 @@ Developer-Handbook
 
 Single source of documentation for the University of Alberta Libraries developers common tools and practices
 
+
+
+
+
+Steps
+-----
+
+
 Version Control
 ---------------
 Version control is important to our operation
